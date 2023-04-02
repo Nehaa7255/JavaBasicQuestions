@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="SUM  QUESTION ADDED">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="fibonacci numbers">
+      <change afterPath="$PROJECT_DIR$/src/Basic/cuboid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NjQQQ5d0NcWWFdTOb7pCBHDhTI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680175474685</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="armstrong number added">
+      <created>1680433071829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680433071829</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fibonacci numbers">
+      <created>1680454359555</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680454359555</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +111,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project Created" />
     <MESSAGE value="SUM  QUESTION ADDED" />
-    <option name="LAST_COMMIT_MESSAGE" value="SUM  QUESTION ADDED" />
+    <MESSAGE value="armstrong number added" />
+    <MESSAGE value="check armstrong number" />
+    <MESSAGE value="fibonacci numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="fibonacci numbers" />
   </component>
 </project>
