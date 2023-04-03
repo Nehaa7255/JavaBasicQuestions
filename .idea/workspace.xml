@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -98,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680455021969</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="sum of numbers">
+      <created>1680455259632</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680455259632</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +127,7 @@
     <MESSAGE value="check armstrong number" />
     <MESSAGE value="fibonacci numbers" />
     <MESSAGE value="area &amp; volume of cuboid" />
-    <option name="LAST_COMMIT_MESSAGE" value="area &amp; volume of cuboid" />
+    <MESSAGE value="sum of numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum of numbers" />
   </component>
 </project>
