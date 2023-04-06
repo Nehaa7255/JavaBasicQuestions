@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="sum of number added">
-      <change afterPath="$PROJECT_DIR$/src/Basic/swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="swap_number added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680804647427</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="swap_number added">
+      <created>1680805009376</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680805009376</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +177,7 @@
     <MESSAGE value="reverse string" />
     <MESSAGE value="reverse number added" />
     <MESSAGE value="sum of number added" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum of number added" />
+    <MESSAGE value="swap_number added" />
+    <option name="LAST_COMMIT_MESSAGE" value="swap_number added" />
   </component>
 </project>
