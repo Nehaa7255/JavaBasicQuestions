@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="sum of numbers">
+    <list default="true" id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="reverse string">
+      <change afterPath="$PROJECT_DIR$/src/Basic/reverse_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,13 +16,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3f4daa4c-16c6-45fc-9ea4-197b97230452" />
+        <option name="url" value="https://github.com/Nehaa7255/JavaBasicQuestions.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -106,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680455259632</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="armstrong number added">
+      <created>1680506042058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680506042058</updated>
+    </task>
+    <task id="LOCAL-00008" summary="reverse string">
+      <created>1680546576596</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680546576596</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,11 +151,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project Created" />
     <MESSAGE value="SUM  QUESTION ADDED" />
-    <MESSAGE value="armstrong number added" />
     <MESSAGE value="check armstrong number" />
     <MESSAGE value="fibonacci numbers" />
     <MESSAGE value="area &amp; volume of cuboid" />
     <MESSAGE value="sum of numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum of numbers" />
+    <MESSAGE value="armstrong number added" />
+    <MESSAGE value="reverse string" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse string" />
   </component>
 </project>
