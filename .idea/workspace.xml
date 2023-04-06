@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="swap_number added" />
+    <list default="true" id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="Armstrong number">
+      <change afterPath="$PROJECT_DIR$/src/Basic/Natural_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -152,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680805009376</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Area and perimeter of rectangle">
+      <created>1680805225804</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680805225804</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +193,8 @@
     <MESSAGE value="reverse number added" />
     <MESSAGE value="sum of number added" />
     <MESSAGE value="swap_number added" />
-    <option name="LAST_COMMIT_MESSAGE" value="swap_number added" />
+    <MESSAGE value="Area and perimeter of rectangle" />
+    <MESSAGE value="Armstrong number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Armstrong number" />
   </component>
 </project>
