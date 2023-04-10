@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="oops">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Array.java" afterDir="false" />
+    <list default="true" id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="Array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/Example_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Example_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +202,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681062592072</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="overloading">
+      <created>1681149092571</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1681149092571</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Array">
+      <created>1681149435096</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1681149435096</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +249,9 @@
     <MESSAGE value="Area of triangle" />
     <MESSAGE value="odd_even number" />
     <MESSAGE value="oops" />
-    <option name="LAST_COMMIT_MESSAGE" value="oops" />
+    <MESSAGE value="overloading" />
+    <MESSAGE value="Array" />
+    <MESSAGE value="Sum of numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum of numbers" />
   </component>
 </project>
