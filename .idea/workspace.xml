@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="Array">
+    <list default="true" id="7283fd3b-fd28-4909-a7d7-b4dd6e63334e" name="Changes" comment="Arrray">
+      <change afterPath="$PROJECT_DIR$/src/Basic/factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +29,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -77,7 +77,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8f38c8be-6d03-4e81-b1c3-5546b59ce777" name="Changes" comment="" />
+      <changelist id="7283fd3b-fd28-4909-a7d7-b4dd6e63334e" name="Changes" comment="Arrray" />
       <created>1680174995413</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -209,14 +209,7 @@
       <option name="project" value="LOCAL" />
       <updated>1681149092571</updated>
     </task>
-    <task id="LOCAL-00019" summary="Array">
-      <created>1681149435096</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1681149435096</updated>
-    </task>
-    <option name="localTasksCounter" value="20" />
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,8 +243,7 @@
     <MESSAGE value="odd_even number" />
     <MESSAGE value="oops" />
     <MESSAGE value="overloading" />
-    <MESSAGE value="Array" />
-    <MESSAGE value="Sum of numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of numbers" />
+    <MESSAGE value="Arrray" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrray" />
   </component>
 </project>
