@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="area of triangle" />
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="reverse_number" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +36,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681409937743</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reverse_number">
+      <created>1681410035248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681410035248</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -53,6 +60,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="odd_even" />
     <MESSAGE value="area of triangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="area of triangle" />
+    <MESSAGE value="reverse_number" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse_number" />
   </component>
 </project>
