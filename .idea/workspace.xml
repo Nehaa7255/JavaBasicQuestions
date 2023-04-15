@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Marks&amp;percentage(Question 7 added)">
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Temperature conversion Question(Q.N:8)added">
       <change afterPath="$PROJECT_DIR$/src/Basic/Simple_interest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/temperature.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Basic/ten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +120,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681553718777</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Temperature conversion Question(Q.N:9)added">
+      <created>1681558046490</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681558046490</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Temperature conversion Question(Q.N:9)added">
+      <created>1681558086537</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681558086537</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Temperature conversion Question(Q.N:8)added">
+      <created>1681558182030</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681558182030</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +164,8 @@
     <MESSAGE value="sum of numbers" />
     <MESSAGE value="Question_4 added" />
     <MESSAGE value="Marks&amp;percentage(Question 7 added)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Marks&amp;percentage(Question 7 added)" />
+    <MESSAGE value="Temperature conversion Question(Q.N:9)added" />
+    <MESSAGE value="Temperature conversion Question(Q.N:8)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Temperature conversion Question(Q.N:8)added" />
   </component>
 </project>
