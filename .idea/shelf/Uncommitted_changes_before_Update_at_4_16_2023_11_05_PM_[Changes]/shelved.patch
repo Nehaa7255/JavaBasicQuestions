@@ -1,0 +1,77 @@
+Index: src/Basic/twenty_three.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/twenty_three.java b/src/Basic/twenty_three.java
+new file mode 100644
+--- /dev/null	(date 1681666361330)
++++ b/src/Basic/twenty_three.java	(date 1681666361330)
+@@ -0,0 +1,4 @@
++package Basic;
++
++public class twenty_three {
++}
+Index: src/Basic/twenty_four.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/twenty_four.java b/src/Basic/twenty_four.java
+new file mode 100644
+--- /dev/null	(date 1681666361343)
++++ b/src/Basic/twenty_four.java	(date 1681666361343)
+@@ -0,0 +1,7 @@
++package Basic;
++import java.util.Scanner;
++
++public class twenty_four {
++
++
++}
+Index: src/Basic/thirty_four.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/thirty_four.java b/src/Basic/thirty_four.java
+new file mode 100644
+--- /dev/null	(date 1681666361336)
++++ b/src/Basic/thirty_four.java	(date 1681666361336)
+@@ -0,0 +1,9 @@
++package Basic;
++import java.util.Scanner;
++
++public class thirty_four {
++    public static void main(String[]args){
++        Scanner sc=new Scanner(System.in);
++        
++    }
++}
+Index: src/Basic/thirty_three.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/thirty_three.java b/src/Basic/thirty_three.java
+new file mode 100644
+--- /dev/null	(date 1681666361349)
++++ b/src/Basic/thirty_three.java	(date 1681666361349)
+@@ -0,0 +1,16 @@
++package Basic;
++import java.util.Scanner;
++public class thirty_three {
++    public static void main(String []agrs){
++        Scanner sc= new Scanner(System.in);
++        int sum=0,n;
++        System.out.print("n= ");
++         n= sc.nextInt();
++        for(int i=1;i<=n;i++){
++            System.out.println(i);
++            sum= sum+i;
++            System.out.println(sum);
++        }
++    }
++}
++//do it right
+\ No newline at end of file
