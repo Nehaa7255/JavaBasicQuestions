@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Character input Question(Q.N:13)added">
-      <change afterPath="$PROJECT_DIR$/src/Basic/fourteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="some of Question added">
+      <change afterPath="$PROJECT_DIR$/src/Basic/sixteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/twenty_four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/twenty_three.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681559961553</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="even_odd Question(Q.N:14)added">
+      <created>1681560161807</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1681560161807</updated>
+    </task>
+    <task id="LOCAL-00022" summary="some of Question added">
+      <created>1681665821596</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1681665821596</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +237,8 @@
     <MESSAGE value="Greatest number Question(Q.N:11)added" />
     <MESSAGE value="Character input Question(Q.N:12)added" />
     <MESSAGE value="Character input Question(Q.N:13)added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Character input Question(Q.N:13)added" />
+    <MESSAGE value="even_odd Question(Q.N:14)added" />
+    <MESSAGE value="some of Question added" />
+    <option name="LAST_COMMIT_MESSAGE" value="some of Question added" />
   </component>
 </project>
