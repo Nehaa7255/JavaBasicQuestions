@@ -4,11 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Question added(Q.N:15-32)">
-      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_three.java" afterDir="false" />
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="factorial of a number(Q.N:34)added">
       <change afterPath="$PROJECT_DIR$/src/Basic/twenty_four.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Basic/twenty_three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Eleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Eleven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/eighteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/eighteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/fourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fourteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/seventeen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/seventeen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/ten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/ten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/thirteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/thirty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/thirty_one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirty_one.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/thirty_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirty_two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/twelve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twelve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/twenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_eight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_nine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_seven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_two.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +252,63 @@
       <option name="project" value="LOCAL" />
       <updated>1681666534668</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Question added(Q.N:15-32)">
+      <created>1681666693543</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666693543</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Question added(Q.N:15-32)">
+      <created>1681666744735</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666744735</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Question added(Q.N:15-32)">
+      <created>1681666759603</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666759603</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Question added(Q.N:15-32)">
+      <created>1681666775950</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666775950</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Question added(Q.N:15-32)">
+      <created>1681666797704</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666797704</updated>
+    </task>
+    <task id="LOCAL-00032" summary="some Question added(Q.N:15-32)">
+      <created>1681666848763</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666848763</updated>
+    </task>
+    <task id="LOCAL-00033" summary="sum of n numbers(Q.N:33)added">
+      <created>1681841960016</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1681841960016</updated>
+    </task>
+    <task id="LOCAL-00034" summary="factorial of a number(Q.N:34)added">
+      <created>1681842050427</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1681842050427</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,8 +341,11 @@
     <MESSAGE value="even_odd Question(Q.N:14)added" />
     <MESSAGE value="some of Question added" />
     <MESSAGE value="some Question added" />
-    <MESSAGE value="some Question added(Q.N:15-32)" />
     <MESSAGE value="Question added(Q.N:15-32)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question added(Q.N:15-32)" />
+    <MESSAGE value="some Question added(Q.N:15-32)" />
+    <MESSAGE value="some Questions added" />
+    <MESSAGE value="sum of n numbers(Q.N:33)added" />
+    <MESSAGE value="factorial of a number(Q.N:34)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="factorial of a number(Q.N:34)added" />
   </component>
 </project>
