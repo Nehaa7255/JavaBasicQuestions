@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="factorial of a number(Q.N:34)added">
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="reverse for loop(Q.N:31)added">
       <change afterPath="$PROJECT_DIR$/src/Basic/twenty_four.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Basic/twenty_three.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Eleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Eleven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/eighteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/eighteen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifteen.java" afterDir="false" />
@@ -18,12 +16,10 @@
       <change beforePath="$PROJECT_DIR$/src/Basic/ten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/ten.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/thirteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirteen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/thirty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/thirty_one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirty_one.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/thirty_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirty_two.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/twelve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twelve.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/twenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_eight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/twenty_nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_nine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/twenty_seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_seven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/twenty_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_two.java" afterDir="false" />
@@ -308,7 +304,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681842050427</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="greatest number(Q.N:11)added">
+      <created>1681842249933</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1681842249933</updated>
+    </task>
+    <task id="LOCAL-00036" summary="reverse for loop(Q.N:31)added">
+      <created>1681842358886</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1681842358886</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,6 +356,8 @@
     <MESSAGE value="some Questions added" />
     <MESSAGE value="sum of n numbers(Q.N:33)added" />
     <MESSAGE value="factorial of a number(Q.N:34)added" />
-    <option name="LAST_COMMIT_MESSAGE" value="factorial of a number(Q.N:34)added" />
+    <MESSAGE value="greatest number(Q.N:11)added" />
+    <MESSAGE value="reverse for loop(Q.N:31)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse for loop(Q.N:31)added" />
   </component>
 </project>
