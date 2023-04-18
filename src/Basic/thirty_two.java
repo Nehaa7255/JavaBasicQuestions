@@ -1,3 +1,8 @@
+/* Take a number as input and print its table
+      5 * 1 = 5
+      5 * 2 = 10 ... up to 10 terms
+ */
+
 package Basic;
 import java.util.Scanner;
 
