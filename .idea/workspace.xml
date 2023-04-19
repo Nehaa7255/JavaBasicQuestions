@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="perfect number(Q.N:39)added">
-      <change afterPath="$PROJECT_DIR$/src/Basic/fourty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="forty-one(Q.N:41)added">
       <change beforePath="$PROJECT_DIR$/src/Basic/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifteen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/fourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fourteen.java" afterDir="false" />
@@ -55,13 +53,6 @@
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="odd_even">
-      <created>1681409724273</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1681409724273</updated>
-    </task>
     <task id="LOCAL-00002" summary="area of triangle">
       <created>1681409915165</created>
       <option name="number" value="00002" />
@@ -391,7 +382,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681927558619</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Seperate each digit(Q.N:s0)added">
+      <created>1681927706113</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1681927706113</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Seperate each digit(Q.N:40)added">
+      <created>1681927732754</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1681927732754</updated>
+    </task>
+    <task id="LOCAL-00050" summary="forty-one(Q.N:41)added">
+      <created>1681927859774</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1681927859774</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,9 +418,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AND and OR operator Question(Q.N:10)added" />
-    <MESSAGE value="Greatest number Question(Q.N:11)added" />
-    <MESSAGE value="Character input Question(Q.N:12)added" />
     <MESSAGE value="Character input Question(Q.N:13)added" />
     <MESSAGE value="even_odd Question(Q.N:14)added" />
     <MESSAGE value="some of Question added" />
@@ -431,6 +440,9 @@
     <MESSAGE value="all factor(Q.N:37)added" />
     <MESSAGE value="sum of all factor(Q.N:37)added" />
     <MESSAGE value="perfect number(Q.N:39)added" />
-    <option name="LAST_COMMIT_MESSAGE" value="perfect number(Q.N:39)added" />
+    <MESSAGE value="Seperate each digit(Q.N:s0)added" />
+    <MESSAGE value="Seperate each digit(Q.N:40)added" />
+    <MESSAGE value="forty-one(Q.N:41)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="forty-one(Q.N:41)added" />
   </component>
 </project>
