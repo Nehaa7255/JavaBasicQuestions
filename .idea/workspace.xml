@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Shop discount(Q.N:23)added">
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="perfect number(Q.N:39)added">
       <change afterPath="$PROJECT_DIR$/src/Basic/fourty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_eight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_nine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_seven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_six.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/thity_five.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifteen.java" afterDir="false" />
@@ -361,7 +356,42 @@
       <option name="project" value="LOCAL" />
       <updated>1681926769827</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="sum of even&amp;odd in range(Q.N:35)added">
+      <created>1681927078400</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1681927078400</updated>
+    </task>
+    <task id="LOCAL-00044" summary="divisible in range(Q.N:36)added">
+      <created>1681927195794</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1681927195794</updated>
+    </task>
+    <task id="LOCAL-00045" summary="all factor(Q.N:37)added">
+      <created>1681927303376</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1681927303376</updated>
+    </task>
+    <task id="LOCAL-00046" summary="sum of all factor(Q.N:37)added">
+      <created>1681927417610</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1681927417610</updated>
+    </task>
+    <task id="LOCAL-00047" summary="perfect number(Q.N:39)added">
+      <created>1681927558619</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1681927558619</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,11 +406,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Question_4 added" />
-    <MESSAGE value="Marks&amp;percentage(Question 7 added)" />
-    <MESSAGE value="Temperature conversion Question(Q.N:9)added" />
-    <MESSAGE value="Temperature conversion Question(Q.N:8)added" />
-    <MESSAGE value="Simple interest Question(Q.N:9)added" />
     <MESSAGE value="AND and OR operator Question(Q.N:10)added" />
     <MESSAGE value="Greatest number Question(Q.N:11)added" />
     <MESSAGE value="Character input Question(Q.N:12)added" />
@@ -401,6 +426,11 @@
     <MESSAGE value="quadratic equation(Q.N:18)added" />
     <MESSAGE value="Bijli bill (Q.N:24)added" />
     <MESSAGE value="Shop discount(Q.N:23)added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Shop discount(Q.N:23)added" />
+    <MESSAGE value="sum of even&amp;odd in range(Q.N:35)added" />
+    <MESSAGE value="divisible in range(Q.N:36)added" />
+    <MESSAGE value="all factor(Q.N:37)added" />
+    <MESSAGE value="sum of all factor(Q.N:37)added" />
+    <MESSAGE value="perfect number(Q.N:39)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="perfect number(Q.N:39)added" />
   </component>
 </project>
