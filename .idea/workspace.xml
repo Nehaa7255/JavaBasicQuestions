@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="quadratic equation(Q.N:18)added">
-      <change afterPath="$PROJECT_DIR$/src/Basic/twenty_four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/twenty_three.java" afterDir="false" />
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Shop discount(Q.N:23)added">
+      <change afterPath="$PROJECT_DIR$/src/Basic/fourty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/thirty_six.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/thity_five.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifteen.java" afterDir="false" />
@@ -343,7 +347,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681842646959</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Bijli bill (Q.N:24)added">
+      <created>1681926679764</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1681926679764</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Shop discount(Q.N:23)added">
+      <created>1681926769827</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1681926769827</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,8 +376,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="area and perimeter of rectangle" />
-    <MESSAGE value="sum of numbers" />
     <MESSAGE value="Question_4 added" />
     <MESSAGE value="Marks&amp;percentage(Question 7 added)" />
     <MESSAGE value="Temperature conversion Question(Q.N:9)added" />
@@ -383,6 +399,8 @@
     <MESSAGE value="hello world n times(Q.N:29)added" />
     <MESSAGE value="natural number n times(Q.N:30)added" />
     <MESSAGE value="quadratic equation(Q.N:18)added" />
-    <option name="LAST_COMMIT_MESSAGE" value="quadratic equation(Q.N:18)added" />
+    <MESSAGE value="Bijli bill (Q.N:24)added" />
+    <MESSAGE value="Shop discount(Q.N:23)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shop discount(Q.N:23)added" />
   </component>
 </project>
