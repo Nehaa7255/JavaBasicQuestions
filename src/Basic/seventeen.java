@@ -1,3 +1,5 @@
+// Accept the three sides of triangle and calculate the area using herons formula
+
 package Basic;
 import java.util.Scanner;
 
