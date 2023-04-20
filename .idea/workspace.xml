@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="forty-one(Q.N:41)added">
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="check strong no.(Q.N:46)added">
+      <change afterPath="$PROJECT_DIR$/src/Basic/forty_seven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifteen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/fourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fourteen.java" afterDir="false" />
@@ -53,47 +55,12 @@
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00002" summary="area of triangle">
-      <created>1681409915165</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1681409915165</updated>
-    </task>
-    <task id="LOCAL-00003" summary="area of triangle">
-      <created>1681409937743</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1681409937743</updated>
-    </task>
-    <task id="LOCAL-00004" summary="reverse_number">
-      <created>1681410035248</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1681410035248</updated>
-    </task>
     <task active="true" id="Default" summary="Default task">
       <changelist id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="reverse_number" />
       <created>1681496740227</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
-    </task>
-    <task id="LOCAL-00005" summary="fibonacci numbers">
-      <created>1681496807895</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1681496807896</updated>
-    </task>
-    <task id="LOCAL-00006" summary="area and perimeter of rectangle">
-      <created>1681496872397</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1681496872397</updated>
     </task>
     <task id="LOCAL-00007" summary="area and perimeter of rectangle">
       <created>1681496895843</created>
@@ -403,7 +370,42 @@
       <option name="project" value="LOCAL" />
       <updated>1681927859774</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="prime no.(Q.N:42)added">
+      <created>1681928157938</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1681928157938</updated>
+    </task>
+    <task id="LOCAL-00052" summary="reverse no.(Q.N:43)added">
+      <created>1681928269907</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1681928269907</updated>
+    </task>
+    <task id="LOCAL-00053" summary="check armstrong no.(Q.N:45)added">
+      <created>1681928432653</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1681928432653</updated>
+    </task>
+    <task id="LOCAL-00054" summary="check palindrome no.(Q.N:46)added">
+      <created>1681928544914</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1681928544914</updated>
+    </task>
+    <task id="LOCAL-00055" summary="check strong no.(Q.N:46)added">
+      <created>1681928707398</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1681928707398</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,11 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Character input Question(Q.N:13)added" />
-    <MESSAGE value="even_odd Question(Q.N:14)added" />
-    <MESSAGE value="some of Question added" />
-    <MESSAGE value="some Question added" />
-    <MESSAGE value="Question added(Q.N:15-32)" />
     <MESSAGE value="some Question added(Q.N:15-32)" />
     <MESSAGE value="some Questions added" />
     <MESSAGE value="sum of n numbers(Q.N:33)added" />
@@ -443,6 +440,11 @@
     <MESSAGE value="Seperate each digit(Q.N:s0)added" />
     <MESSAGE value="Seperate each digit(Q.N:40)added" />
     <MESSAGE value="forty-one(Q.N:41)added" />
-    <option name="LAST_COMMIT_MESSAGE" value="forty-one(Q.N:41)added" />
+    <MESSAGE value="prime no.(Q.N:42)added" />
+    <MESSAGE value="reverse no.(Q.N:43)added" />
+    <MESSAGE value="check armstrong no.(Q.N:45)added" />
+    <MESSAGE value="check palindrome no.(Q.N:46)added" />
+    <MESSAGE value="check strong no.(Q.N:46)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="check strong no.(Q.N:46)added" />
   </component>
 </project>
