@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="check strong no.(Q.N:46)added">
-      <change afterPath="$PROJECT_DIR$/src/Basic/forty_seven.java" afterDir="false" />
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="factorial Question added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/fourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fourteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/seventeen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/seventeen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/temperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/ten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/ten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/thirteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/twelve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twelve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/twenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_seven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_two.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,104 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
-    </task>
-    <task id="LOCAL-00007" summary="area and perimeter of rectangle">
-      <created>1681496895843</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1681496895843</updated>
-    </task>
-    <task id="LOCAL-00008" summary="sum of numbers">
-      <created>1681496969676</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1681496969676</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Question_4 added">
-      <created>1681553568570</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1681553568570</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Marks&amp;percentage(Question 7 added)">
-      <created>1681553718777</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1681553718777</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Temperature conversion Question(Q.N:9)added">
-      <created>1681558046490</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1681558046490</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Temperature conversion Question(Q.N:9)added">
-      <created>1681558086537</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1681558086537</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Temperature conversion Question(Q.N:8)added">
-      <created>1681558182030</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1681558182030</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Temperature conversion Question(Q.N:8)added">
-      <created>1681558242878</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1681558242878</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Temperature conversion Question(Q.N:8)added">
-      <created>1681558319050</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1681558319050</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Simple interest Question(Q.N:9)added">
-      <created>1681558407677</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1681558407677</updated>
-    </task>
-    <task id="LOCAL-00017" summary="AND and OR operator Question(Q.N:10)added">
-      <created>1681558487753</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1681558487753</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Greatest number Question(Q.N:11)added">
-      <created>1681559001358</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1681559001358</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Character input Question(Q.N:12)added">
-      <created>1681559705899</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1681559705899</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Character input Question(Q.N:13)added">
-      <created>1681559961553</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1681559961553</updated>
     </task>
     <task id="LOCAL-00021" summary="even_odd Question(Q.N:14)added">
       <created>1681560161807</created>
@@ -405,7 +294,105 @@
       <option name="project" value="LOCAL" />
       <updated>1681928707398</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="check strong no.(Q.N:47)added">
+      <created>1682014524871</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1682014524873</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Student marks(Q.N:22)added">
+      <created>1682014592487</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1682014592487</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Greatest number(Q.N:20)added">
+      <created>1682014680573</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1682014680573</updated>
+    </task>
+    <task id="LOCAL-00059" summary="check valid voter(Q.N:15)added">
+      <created>1682014847203</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1682014847204</updated>
+    </task>
+    <task id="LOCAL-00060" summary="even_odd Questions(Q.N:14)added">
+      <created>1682014966330</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1682014966330</updated>
+    </task>
+    <task id="LOCAL-00061" summary="area of triangle(Q.N:17)added">
+      <created>1682015011565</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1682015011565</updated>
+    </task>
+    <task id="LOCAL-00062" summary="AND and OR operator(Q.N:10)added">
+      <created>1682015080855</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1682015080855</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Character input Question(Q.N:13)added">
+      <created>1682015135083</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1682015135083</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Character input Question(Q.N:12)added">
+      <created>1682015181308</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1682015181308</updated>
+    </task>
+    <task id="LOCAL-00065" summary="area of triangle">
+      <created>1682015231341</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1682015231341</updated>
+    </task>
+    <task id="LOCAL-00066" summary="english alphabet(Q.N:27)added">
+      <created>1682015273442</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1682015273442</updated>
+    </task>
+    <task id="LOCAL-00067" summary="temperature Question added">
+      <created>1682015305063</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1682015305063</updated>
+    </task>
+    <task id="LOCAL-00068" summary="factorial Question added">
+      <created>1682015327821</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1682015327821</updated>
+    </task>
+    <task id="LOCAL-00069" summary="factorial Question added">
+      <created>1682015363256</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1682015363256</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -420,19 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="some Question added(Q.N:15-32)" />
-    <MESSAGE value="some Questions added" />
-    <MESSAGE value="sum of n numbers(Q.N:33)added" />
-    <MESSAGE value="factorial of a number(Q.N:34)added" />
-    <MESSAGE value="greatest number(Q.N:11)added" />
-    <MESSAGE value="reverse for loop(Q.N:31)added" />
-    <MESSAGE value="table(Q.N:32)added" />
-    <MESSAGE value="hello world n times(Q.N:29)added" />
-    <MESSAGE value="natural number n times(Q.N:30)added" />
-    <MESSAGE value="quadratic equation(Q.N:18)added" />
-    <MESSAGE value="Bijli bill (Q.N:24)added" />
-    <MESSAGE value="Shop discount(Q.N:23)added" />
-    <MESSAGE value="sum of even&amp;odd in range(Q.N:35)added" />
     <MESSAGE value="divisible in range(Q.N:36)added" />
     <MESSAGE value="all factor(Q.N:37)added" />
     <MESSAGE value="sum of all factor(Q.N:37)added" />
@@ -445,6 +419,19 @@
     <MESSAGE value="check armstrong no.(Q.N:45)added" />
     <MESSAGE value="check palindrome no.(Q.N:46)added" />
     <MESSAGE value="check strong no.(Q.N:46)added" />
-    <option name="LAST_COMMIT_MESSAGE" value="check strong no.(Q.N:46)added" />
+    <MESSAGE value="check strong no.(Q.N:47)added" />
+    <MESSAGE value="Student marks(Q.N:22)added" />
+    <MESSAGE value="Greatest number(Q.N:20)added" />
+    <MESSAGE value="check valid voter(Q.N:15)added" />
+    <MESSAGE value="even_odd Questions(Q.N:14)added" />
+    <MESSAGE value="area of triangle(Q.N:17)added" />
+    <MESSAGE value="AND and OR operator(Q.N:10)added" />
+    <MESSAGE value="Character input Question(Q.N:13)added" />
+    <MESSAGE value="Character input Question(Q.N:12)added" />
+    <MESSAGE value="area of triangle" />
+    <MESSAGE value="english alphabet(Q.N:27)added" />
+    <MESSAGE value="temperature Question added" />
+    <MESSAGE value="factorial Question added" />
+    <option name="LAST_COMMIT_MESSAGE" value="factorial Question added" />
   </component>
 </project>
