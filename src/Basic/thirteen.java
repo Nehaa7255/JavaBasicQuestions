@@ -1,3 +1,8 @@
+/* Extend the previous program and handle the wrong inputs.
+    Print Good Morning sir for input m or M & Good morning Maam for input F or f
+    else print Wrong Input
+        */
+
 package Basic;
 import java.util.Scanner;
 
