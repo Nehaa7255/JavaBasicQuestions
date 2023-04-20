@@ -1,6 +1,7 @@
+//  Accept an integer and check whether it is an even number or odd.
+
 package Basic;
 import java.util.Scanner;
-
 public class fourteen {
     public static void main(String []args){
         Scanner sc= new Scanner(System.in);
