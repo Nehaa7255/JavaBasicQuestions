@@ -1,3 +1,5 @@
+//  Accept three numbers and print the greatest among them
+
 package Basic;
 import java.util.Scanner;
 public class twenty {
