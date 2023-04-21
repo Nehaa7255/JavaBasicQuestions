@@ -1,0 +1,343 @@
+Index: src/Basic/twelve.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Basic;\r\nimport java.util.Scanner;\r\n\r\npublic class twelve {\r\n    public static void main(String []args){\r\n        Scanner sc = new Scanner(System.in);\r\n        System.out.print(\"Enter the gender in (M/F) : \");\r\n        String gender =sc.nextLine();\r\n        char genderChar= gender.charAt(0);\r\n        if(genderChar == 'M'){\r\n            System.out.println(\"Good Morning sir\");\r\n        }\r\n        else if(genderChar == 'F'){\r\n            System.out.println(\"Good Morning Mam\");\r\n        }\r\n        else{\r\n            System.out.println(\"Wrong input\");\r\n        }\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/twelve.java b/src/Basic/twelve.java
+--- a/src/Basic/twelve.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/twelve.java	(date 1681715753149)
+@@ -1,3 +1,9 @@
++/*
++     Accept the gender from the user as char and print the respective greeting message
++     Ex - Good Morning Sir (on the basis of gender)
++
++ */
++
+ package Basic;
+ import java.util.Scanner;
+ 
+Index: src/Basic/twenty_seven.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Basic;\r\nimport java.util.Scanner;\r\npublic class twenty_seven {\r\n    public static void main(String []args){\r\n        Scanner sc=new Scanner(System.in);\r\n        int i=0;\r\n        System.out.print(\"Enter the english alphabet : \");\r\n      char  ch=sc.next().charAt(0);\r\n        if(ch=='a' || ch=='e' || ch=='i' || ch=='o'|| ch=='u'){\r\n            System.out.println(ch+\" \"+\"is an  Vowel number\");\r\n        }\r\n        else {\r\n            System.out.println(\"consonant number\");\r\n        }\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/twenty_seven.java b/src/Basic/twenty_seven.java
+--- a/src/Basic/twenty_seven.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/twenty_seven.java	(date 1681715597761)
+@@ -1,3 +1,5 @@
++// Accept an english alphabet from user and check if it is a consonant or a vowel;
++
+ package Basic;
+ import java.util.Scanner;
+ public class twenty_seven {
+Index: src/Basic/twenty_two.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Basic;\r\nimport java.util.Scanner;\r\n\r\npublic class twenty_two {\r\n    public static void main(String []args){\r\n        Scanner sc=new Scanner(System.in);\r\n        System.out.print(\"Enter the marks : \");\r\n         int marks =sc.nextInt();\r\n         if(marks >= 91 && marks <=100){\r\n             System.out.print(\"AA\");\r\n         }\r\n         else if (marks >= 81 && marks <=90){\r\n             System.out.println(\"AB\");\r\n         }\r\n         else if(marks >= 71 && marks <=80){\r\n             System.out.println(\"BB\");\r\n         }\r\n         else if(marks >= 61&& marks <=70) {\r\n             System.out.println(\"BC\");\r\n         }\r\n         else if(marks >= 51&& marks <=60) {\r\n             System.out.println(\"CD\");\r\n         }\r\n         else if(marks >= 41&& marks <=50) {\r\n             System.out.println(\"DD\");\r\n         }\r\n         else if(marks <=40) {\r\n             System.out.println(\"F\");\r\n         }\r\n\r\n\r\n    }\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/twenty_two.java b/src/Basic/twenty_two.java
+--- a/src/Basic/twenty_two.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/twenty_two.java	(date 1681715543804)
+@@ -1,6 +1,18 @@
++/*
++Write a program that will ask the user to enter his/her marks (out of 100). Define a method   that will display grades according to the marks entered as below:
++ 	 Marks        Grade
++ 	 91-100         AA
++	 81-90           AB
++	 71-80           BB
++  	 61-70           BC
++  	 51-60           CD
++  	 41-50           DD
++	 <=40            F
++
++ */
++
+ package Basic;
+ import java.util.Scanner;
+-
+ public class twenty_two {
+     public static void main(String []args){
+         Scanner sc=new Scanner(System.in);
+Index: src/Basic/forty_five.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/forty_five.java b/src/Basic/forty_five.java
+new file mode 100644
+--- /dev/null	(date 1681928032918)
++++ b/src/Basic/forty_five.java	(date 1681928032918)
+@@ -0,0 +1,4 @@
++package Basic;
++
++public class forty_five {
++}
+Index: src/Basic/ten.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Basic;\r\nimport java.util.Scanner;\r\n\r\npublic class ten {\r\n    public static void main(String []args){\r\n        Scanner sc= new Scanner(System.in);\r\n        System.out.print(\"Enter 1st number : \");\r\n        int first_number =sc.nextInt();\r\n        System.out.print(\"Enter 2nd number : \");\r\n        int second_number=sc.nextInt();\r\n        System.out.print(\"Enter 3rd number : \");\r\n        int third_number=sc.nextInt();\r\n        if(first_number == second_number && second_number == third_number ){\r\n            System.out.println(\"All numbers are equal\");}\r\n            else if(first_number==second_number || second_number==third_number || third_number==first_number){\r\n                System.out.println(\"Any of two numbers are equal\");\r\n            }\r\n            else{\r\n                System.out.println(\"Numbers are not equal\");\r\n            }\r\n    }\r\n    }\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/ten.java b/src/Basic/ten.java
+--- a/src/Basic/ten.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/ten.java	(date 1681715876517)
+@@ -1,3 +1,10 @@
++/*
++Take 3 int inputs from user and check and print the result.
++	all are equal
++	any of two are equal
++	( use && ||)
++ */
++
+ package Basic;
+ import java.util.Scanner;
+ 
+Index: src/Basic/forty_four.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/forty_four.java b/src/Basic/forty_four.java
+new file mode 100644
+--- /dev/null	(date 1681928032888)
++++ b/src/Basic/forty_four.java	(date 1681928032888)
+@@ -0,0 +1,4 @@
++package Basic;
++
++public class forty_four {
++}
+Index: src/Basic/thirteen.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Basic;\r\nimport java.util.Scanner;\r\n\r\npublic class thirteen {\r\n    public static void main(String []args){\r\n        Scanner sc= new Scanner(System.in);\r\n        System.out.print(\"Enter the gender in (M/F) : \");\r\n        String gender =sc.nextLine();\r\n        char genderChar= gender.charAt(0);\r\n        if(genderChar == 'M'|| genderChar == 'm'){\r\n            System.out.println(\"Good Morning sir\");\r\n        }\r\n        else if(genderChar == 'F' || genderChar == 'f' ){\r\n            System.out.println(\"Good Morning Mam\");\r\n        }\r\n        else{\r\n            System.out.println(\"Wrong input\");\r\n        }\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/thirteen.java b/src/Basic/thirteen.java
+--- a/src/Basic/thirteen.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/thirteen.java	(date 1681715382179)
+@@ -1,3 +1,8 @@
++/* Extend the previous program and handle the wrong inputs.
++    Print Good Morning sir for input m or M & Good morning Maam for input F or f
++    else print Wrong Input
++        */
++
+ package Basic;
+ import java.util.Scanner;
+ 
+Index: src/Basic/factorial.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import java.util.*;\r\nimport java.util.Scanner.*;\r\n\r\npublic class factorial {\r\n    public static void main(String args[]){\r\n            int i,fact=1;\r\n            int number=5;//It is the number to calculate factorial\r\n            for(i=1;i<=number;i++){\r\n                fact=fact*i;\r\n            }\r\n            System.out.println(\"Factorial of \"+number+\" is: \"+fact);\r\n        }\r\n    }\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/factorial.java b/src/Basic/factorial.java
+--- a/src/Basic/factorial.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/factorial.java	(date 1681759104523)
+@@ -5,7 +5,7 @@
+     public static void main(String args[]){
+             int i,fact=1;
+             int number=5;//It is the number to calculate factorial
+-            for(i=1;i<=number;i++){
++            for(i=1;i<=number;++i){
+                 fact=fact*i;
+             }
+             System.out.println("Factorial of "+number+" is: "+fact);
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1\" name=\"Changes\" comment=\"forty-one(Q.N:41)added\">\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/factorial.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/factorial.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/fifteen.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/fifteen.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/fourteen.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/fourteen.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/seventeen.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/seventeen.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/temperature.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/temperature.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/ten.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/ten.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/thirteen.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/thirteen.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/triangle.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/triangle.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/twelve.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/twelve.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/twenty.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/twenty.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/twenty_seven.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/twenty_seven.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Basic/twenty_two.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Basic/twenty_two.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2OQdSCOdupDUGsOzg0JxbPzVTjB\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task id=\"LOCAL-00002\" summary=\"area of triangle\">\r\n      <created>1681409915165</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681409915165</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"area of triangle\">\r\n      <created>1681409937743</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681409937743</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"reverse_number\">\r\n      <created>1681410035248</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681410035248</updated>\r\n    </task>\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1\" name=\"Changes\" comment=\"reverse_number\" />\r\n      <created>1681496740227</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1681496740227</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"fibonacci numbers\">\r\n      <created>1681496807895</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681496807896</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"area and perimeter of rectangle\">\r\n      <created>1681496872397</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681496872397</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"area and perimeter of rectangle\">\r\n      <created>1681496895843</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681496895843</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"sum of numbers\">\r\n      <created>1681496969676</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681496969676</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Question_4 added\">\r\n      <created>1681553568570</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681553568570</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Marks&amp;percentage(Question 7 added)\">\r\n      <created>1681553718777</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681553718777</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Temperature conversion Question(Q.N:9)added\">\r\n      <created>1681558046490</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681558046490</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Temperature conversion Question(Q.N:9)added\">\r\n      <created>1681558086537</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681558086537</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Temperature conversion Question(Q.N:8)added\">\r\n      <created>1681558182030</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681558182030</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Temperature conversion Question(Q.N:8)added\">\r\n      <created>1681558242878</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681558242878</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Temperature conversion Question(Q.N:8)added\">\r\n      <created>1681558319050</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681558319050</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Simple interest Question(Q.N:9)added\">\r\n      <created>1681558407677</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681558407677</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"AND and OR operator Question(Q.N:10)added\">\r\n      <created>1681558487753</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681558487753</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"Greatest number Question(Q.N:11)added\">\r\n      <created>1681559001358</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681559001358</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"Character input Question(Q.N:12)added\">\r\n      <created>1681559705899</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681559705899</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"Character input Question(Q.N:13)added\">\r\n      <created>1681559961553</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681559961553</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"even_odd Question(Q.N:14)added\">\r\n      <created>1681560161807</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681560161807</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"some of Question added\">\r\n      <created>1681665821596</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681665821596</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"some Question added\">\r\n      <created>1681666166438</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681666166438</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"some Question added(Q.N:15-32)\">\r\n      <created>1681666280076</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681666280076</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"Question added(Q.N:15-32)\">\r\n      <created>1681666355970</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681666355970</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00026\" summary=\"Question added(Q.N:15-32)\">\r\n      <created>1681666534668</created>\r\n      <option name=\"number\" value=\"00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00026\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681666534668</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00027\" summary=\"Question added(Q.N:15-32)\">\r\n      <created>1681666693543</created>\r\n      <option name=\"number\" value=\"00027\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00027\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681666693543</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00028\" summary=\"Question added(Q.N:15-32)\">\r\n      <created>1681666744735</created>\r\n      <option name=\"number\" value=\"00028\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00028\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681666744735</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00029\" summary=\"Question added(Q.N:15-32)\">\r\n      <created>1681666759603</created>\r\n      <option name=\"number\" value=\"00029\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00029\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681666759603</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00030\" summary=\"Question added(Q.N:15-32)\">\r\n      <created>1681666775950</created>\r\n      <option name=\"number\" value=\"00030\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00030\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681666775950</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00031\" summary=\"Question added(Q.N:15-32)\">\r\n      <created>1681666797704</created>\r\n      <option name=\"number\" value=\"00031\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00031\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681666797704</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00032\" summary=\"some Question added(Q.N:15-32)\">\r\n      <created>1681666848763</created>\r\n      <option name=\"number\" value=\"00032\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00032\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681666848763</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00033\" summary=\"sum of n numbers(Q.N:33)added\">\r\n      <created>1681841960016</created>\r\n      <option name=\"number\" value=\"00033\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00033\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681841960016</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00034\" summary=\"factorial of a number(Q.N:34)added\">\r\n      <created>1681842050427</created>\r\n      <option name=\"number\" value=\"00034\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00034\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681842050427</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00035\" summary=\"greatest number(Q.N:11)added\">\r\n      <created>1681842249933</created>\r\n      <option name=\"number\" value=\"00035\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00035\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681842249933</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00036\" summary=\"reverse for loop(Q.N:31)added\">\r\n      <created>1681842358886</created>\r\n      <option name=\"number\" value=\"00036\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00036\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681842358886</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00037\" summary=\"table(Q.N:32)added\">\r\n      <created>1681842456824</created>\r\n      <option name=\"number\" value=\"00037\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00037\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681842456824</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00038\" summary=\"hello world n times(Q.N:29)added\">\r\n      <created>1681842501260</created>\r\n      <option name=\"number\" value=\"00038\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00038\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681842501260</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00039\" summary=\"natural number n times(Q.N:30)added\">\r\n      <created>1681842592168</created>\r\n      <option name=\"number\" value=\"00039\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00039\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681842592168</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00040\" summary=\"quadratic equation(Q.N:18)added\">\r\n      <created>1681842646959</created>\r\n      <option name=\"number\" value=\"00040\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00040\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681842646959</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00041\" summary=\"Bijli bill (Q.N:24)added\">\r\n      <created>1681926679764</created>\r\n      <option name=\"number\" value=\"00041\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00041\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681926679764</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00042\" summary=\"Shop discount(Q.N:23)added\">\r\n      <created>1681926769827</created>\r\n      <option name=\"number\" value=\"00042\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00042\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681926769827</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00043\" summary=\"sum of even&amp;odd in range(Q.N:35)added\">\r\n      <created>1681927078400</created>\r\n      <option name=\"number\" value=\"00043\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00043\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681927078400</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00044\" summary=\"divisible in range(Q.N:36)added\">\r\n      <created>1681927195794</created>\r\n      <option name=\"number\" value=\"00044\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00044\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681927195794</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00045\" summary=\"all factor(Q.N:37)added\">\r\n      <created>1681927303376</created>\r\n      <option name=\"number\" value=\"00045\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00045\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681927303376</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00046\" summary=\"sum of all factor(Q.N:37)added\">\r\n      <created>1681927417610</created>\r\n      <option name=\"number\" value=\"00046\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00046\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681927417610</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00047\" summary=\"perfect number(Q.N:39)added\">\r\n      <created>1681927558619</created>\r\n      <option name=\"number\" value=\"00047\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00047\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681927558619</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00048\" summary=\"Seperate each digit(Q.N:s0)added\">\r\n      <created>1681927706113</created>\r\n      <option name=\"number\" value=\"00048\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00048\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681927706113</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00049\" summary=\"Seperate each digit(Q.N:40)added\">\r\n      <created>1681927732754</created>\r\n      <option name=\"number\" value=\"00049\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00049\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681927732754</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00050\" summary=\"forty-one(Q.N:41)added\">\r\n      <created>1681927859774</created>\r\n      <option name=\"number\" value=\"00050\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00050\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681927859774</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"51\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Character input Question(Q.N:13)added\" />\r\n    <MESSAGE value=\"even_odd Question(Q.N:14)added\" />\r\n    <MESSAGE value=\"some of Question added\" />\r\n    <MESSAGE value=\"some Question added\" />\r\n    <MESSAGE value=\"Question added(Q.N:15-32)\" />\r\n    <MESSAGE value=\"some Question added(Q.N:15-32)\" />\r\n    <MESSAGE value=\"some Questions added\" />\r\n    <MESSAGE value=\"sum of n numbers(Q.N:33)added\" />\r\n    <MESSAGE value=\"factorial of a number(Q.N:34)added\" />\r\n    <MESSAGE value=\"greatest number(Q.N:11)added\" />\r\n    <MESSAGE value=\"reverse for loop(Q.N:31)added\" />\r\n    <MESSAGE value=\"table(Q.N:32)added\" />\r\n    <MESSAGE value=\"hello world n times(Q.N:29)added\" />\r\n    <MESSAGE value=\"natural number n times(Q.N:30)added\" />\r\n    <MESSAGE value=\"quadratic equation(Q.N:18)added\" />\r\n    <MESSAGE value=\"Bijli bill (Q.N:24)added\" />\r\n    <MESSAGE value=\"Shop discount(Q.N:23)added\" />\r\n    <MESSAGE value=\"sum of even&amp;odd in range(Q.N:35)added\" />\r\n    <MESSAGE value=\"divisible in range(Q.N:36)added\" />\r\n    <MESSAGE value=\"all factor(Q.N:37)added\" />\r\n    <MESSAGE value=\"sum of all factor(Q.N:37)added\" />\r\n    <MESSAGE value=\"perfect number(Q.N:39)added\" />\r\n    <MESSAGE value=\"Seperate each digit(Q.N:s0)added\" />\r\n    <MESSAGE value=\"Seperate each digit(Q.N:40)added\" />\r\n    <MESSAGE value=\"forty-one(Q.N:41)added\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"forty-one(Q.N:41)added\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 17d6db918ddc3b68f644e25a3d4223a57d80d7b6)
++++ b/.idea/workspace.xml	(date 1681928271859)
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="forty-one(Q.N:41)added">
++    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="reverse no.(Q.N:43)added">
++      <change afterPath="$PROJECT_DIR$/src/Basic/forty_five.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Basic/forty_four.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Basic/forty_three.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/Basic/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/factorial.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/Basic/fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifteen.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/Basic/fourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fourteen.java" afterDir="false" />
+@@ -53,20 +56,6 @@
+ }</component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+-    <task id="LOCAL-00002" summary="area of triangle">
+-      <created>1681409915165</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1681409915165</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="area of triangle">
+-      <created>1681409937743</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1681409937743</updated>
+-    </task>
+     <task id="LOCAL-00004" summary="reverse_number">
+       <created>1681410035248</created>
+       <option name="number" value="00004" />
+@@ -403,7 +392,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1681927859774</updated>
+     </task>
+-    <option name="localTasksCounter" value="51" />
++    <task id="LOCAL-00051" summary="prime no.(Q.N:42)added">
++      <created>1681928157938</created>
++      <option name="number" value="00051" />
++      <option name="presentableId" value="LOCAL-00051" />
++      <option name="project" value="LOCAL" />
++      <updated>1681928157938</updated>
++    </task>
++    <task id="LOCAL-00052" summary="reverse no.(Q.N:43)added">
++      <created>1681928269907</created>
++      <option name="number" value="00052" />
++      <option name="presentableId" value="LOCAL-00052" />
++      <option name="project" value="LOCAL" />
++      <updated>1681928269907</updated>
++    </task>
++    <option name="localTasksCounter" value="53" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -418,8 +421,6 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+-    <MESSAGE value="Character input Question(Q.N:13)added" />
+-    <MESSAGE value="even_odd Question(Q.N:14)added" />
+     <MESSAGE value="some of Question added" />
+     <MESSAGE value="some Question added" />
+     <MESSAGE value="Question added(Q.N:15-32)" />
+@@ -443,6 +444,8 @@
+     <MESSAGE value="Seperate each digit(Q.N:s0)added" />
+     <MESSAGE value="Seperate each digit(Q.N:40)added" />
+     <MESSAGE value="forty-one(Q.N:41)added" />
+-    <option name="LAST_COMMIT_MESSAGE" value="forty-one(Q.N:41)added" />
++    <MESSAGE value="prime no.(Q.N:42)added" />
++    <MESSAGE value="reverse no.(Q.N:43)added" />
++    <option name="LAST_COMMIT_MESSAGE" value="reverse no.(Q.N:43)added" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/Basic/fifteen.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Basic;\r\nimport java.util.Scanner;\r\npublic class fifteen {\r\n    public static void main(String []args){\r\n        Scanner sc= new Scanner(System.in);\r\n        System.out.print(\"Enter the name : \");;\r\n        String name=sc.nextLine();\r\n        System.out.print(\"Enter the age : \");\r\n        int age=sc.nextInt();\r\n        if(age >=18){\r\n            System.out.println(\"Valid - Hello\"+\" \"+name+\",\"+\" \"+\"you are a valid voter.\");\r\n        }\r\n\r\n        else\r\n        {\r\n            System.out.println(\"Invalid - Sorry\"+\" \"+name+\",\"+\" \"+\"you can't cast the vote.\");\r\n        }\r\n        System.out.println(\"After 18 years the users will be eligible.\");\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/fifteen.java b/src/Basic/fifteen.java
+--- a/src/Basic/fifteen.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/fifteen.java	(date 1681716107947)
+@@ -1,3 +1,10 @@
++/*
++Accept name and age from the user. Check if the user is a valid voter or not.
++      Vaid - Hello Shery, You are a valid voter.
++      Invalid - Sorry Shery, you can't cast the vote.
++	Part 2 - Print after how many years the user will be eligible
++ */
++
+ package Basic;
+ import java.util.Scanner;
+ public class fifteen {
+Index: src/Basic/fourteen.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Basic;\r\nimport java.util.Scanner;\r\n\r\npublic class fourteen {\r\n    public static void main(String []args){\r\n        Scanner sc= new Scanner(System.in);\r\n        int n;\r\n\r\n        System.out.print(\"Enter a number : \");\r\n        n=sc.nextInt();\r\n        if(n%2==0){\r\n            System.out.println(\"even number\");\r\n        }\r\n        else{\r\n            System.out.println(\"odd number\");\r\n        }\r\n\r\n    }\r\n}\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/fourteen.java b/src/Basic/fourteen.java
+--- a/src/Basic/fourteen.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/fourteen.java	(date 1681716077678)
+@@ -1,6 +1,7 @@
++//  Accept an integer and check whether it is an even number or odd.
++
+ package Basic;
+ import java.util.Scanner;
+-
+ public class fourteen {
+     public static void main(String []args){
+         Scanner sc= new Scanner(System.in);
+Index: src/Basic/triangle.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Basic;\r\nimport java.util.*;\r\nimport java.lang.*;\r\nimport java.util.Scanner;\r\n\r\npublic class triangle {\r\n    public static void main(String args[])\r\n    {\r\n        Scanner sc  =  new Scanner(System.in);\r\n        int a,b,c;\r\n        double s, area;\r\n        System.out.println(\"Enter the value of a triangle\");\r\n\r\n        a=sc.nextInt();\r\n        b=sc.nextInt();\r\n        c=sc.nextInt();\r\n        s=(a+b+c);\r\n        area= Math.sqrt(s*(s-a)*(s-b)*(s-c));\r\n        System.out.println(\"the area of triangle : :\"+area);\r\n    }\r\n}\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/triangle.java b/src/Basic/triangle.java
+--- a/src/Basic/triangle.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/triangle.java	(date 1681715753159)
+@@ -1,3 +1,5 @@
++
++
+ package Basic;
+ import java.util.*;
+ import java.lang.*;
+Index: src/Basic/twenty.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Basic;\r\nimport java.util.Scanner;\r\npublic class twenty {\r\n    public static void main(String[] args) {\r\n        Scanner sc = new Scanner(System.in);\r\n        System.out.print(\"Enter first number : \");\r\n        int first = sc.nextInt();\r\n        System.out.print(\"Enter second number : \");\r\n        int second = sc.nextInt();\r\n        System.out.print(\"Enter third number : \");\r\n        int third = sc.nextInt();\r\n        {\r\n            if (first > second && first > third) {\r\n                System.out.print(\"greatest number is : \" + first);\r\n            }\r\nelse{\r\n    System.out.println(\"greatest number is : \"+third);\r\n            }\r\n        }\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/twenty.java b/src/Basic/twenty.java
+--- a/src/Basic/twenty.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/twenty.java	(date 1681715692339)
+@@ -1,3 +1,5 @@
++//  Accept three numbers and print the greatest among them
++
+ package Basic;
+ import java.util.Scanner;
+ public class twenty {
+Index: src/Basic/seventeen.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Basic;\r\nimport java.util.Scanner;\r\n\r\npublic class seventeen {\r\n    public static void main(String []args){\r\n        Scanner sc=new Scanner(System.in);\r\n        System.out.print(\"Enter the value of First side : \");\r\n        int a=sc.nextInt();\r\n        System.out.print(\"Enter the value of second side : \");\r\n        int b =sc.nextInt();\r\n        System.out.print(\"Enter the value of third side : \");\r\n        int c =sc.nextInt();\r\n        double area= (a+b+c)/2.0;\r\n      double Area= Math.sqrt(area*(area-a)*(area-b)*(area-c));\r\n        System.out.println(\"area of triangle is : \"+Area);\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/seventeen.java b/src/Basic/seventeen.java
+--- a/src/Basic/seventeen.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/seventeen.java	(date 1681716052926)
+@@ -1,3 +1,5 @@
++// Accept the three sides of triangle and calculate the area using herons formula
++
+ package Basic;
+ import java.util.Scanner;
+ 
+Index: src/Basic/temperature.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Basic;\r\n\r\nimport java.util.Scanner;\r\n\r\npublic class temperature {\r\n    public static void main(String []args){\r\n        Scanner sc=new Scanner(System.in);\r\n        System.out.print(\"Fahrenheit : \");\r\n        float Fahrenheit = sc.nextFloat();\r\n        System.out.println(\"Temperature in Celsius : \" +TemperatureConv(Fahrenheit));\r\n    }\r\n    public static double TemperatureConv(float Fahrenheit){\r\n        return ((Fahrenheit-32)/1.8);\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Basic/temperature.java b/src/Basic/temperature.java
+--- a/src/Basic/temperature.java	(revision b5f34d2d8ecc90d9a21f60b6ac2dcdd754d21d4e)
++++ b/src/Basic/temperature.java	(date 1681716016185)
+@@ -1,3 +1,5 @@
++// Q.N:8- Write a program to accept temperature in Fahrenheit & convert into Celsius.
++
+ package Basic;
+ 
+ import java.util.Scanner;
