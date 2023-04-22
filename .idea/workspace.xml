@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="fifty_two added." />
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/src/Basic/fifty_five.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/fifty_four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/fifty_three.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,20 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
-    </task>
-    <task id="LOCAL-00033" summary="sum of n numbers(Q.N:33)added">
-      <created>1681841960016</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1681841960016</updated>
-    </task>
-    <task id="LOCAL-00034" summary="factorial of a number(Q.N:34)added">
-      <created>1681842050427</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1681842050427</updated>
     </task>
     <task id="LOCAL-00035" summary="greatest number(Q.N:11)added">
       <created>1681842249933</created>
@@ -390,7 +380,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682097698653</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="fifty_two added.">
+      <created>1682187120853</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1682187120854</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1682187209017</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1682187209017</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -405,8 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="prime no.(Q.N:42)added" />
-    <MESSAGE value="reverse no.(Q.N:43)added" />
     <MESSAGE value="check armstrong no.(Q.N:45)added" />
     <MESSAGE value="check palindrome no.(Q.N:46)added" />
     <MESSAGE value="check strong no.(Q.N:46)added" />
@@ -429,7 +431,9 @@
     <MESSAGE value="fifty added." />
     <MESSAGE value="fifty_one added" />
     <MESSAGE value="fifty_one added." />
+    <MESSAGE value="added." />
     <MESSAGE value="fifty_two added." />
-    <option name="LAST_COMMIT_MESSAGE" value="fifty_two added." />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
