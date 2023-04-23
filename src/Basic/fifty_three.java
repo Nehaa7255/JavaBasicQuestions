@@ -1,3 +1,4 @@
+//Question 27 using Switch
 package Basic;
 
 import java.util.Scanner;
