@@ -1,7 +1,7 @@
 // Q.N:8- Write a program to accept temperature in Fahrenheit & convert into Celsius.
 
 package Basic;
-
+import java.util.*;
 import java.util.Scanner;
 
 public class temperature {
