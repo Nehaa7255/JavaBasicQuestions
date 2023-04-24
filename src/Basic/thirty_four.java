@@ -1,6 +1,7 @@
 //Factorial of a number
 
 package Basic;
+import java.util.*;
 import java.util.Scanner;
 
 public class thirty_four {
