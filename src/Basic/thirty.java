@@ -1,6 +1,7 @@
 //Print natural number up to n.
 
 package Basic;
+import java.util.*;
 import java.util.Scanner;
 public class thirty {
     public static void main(String []args){
