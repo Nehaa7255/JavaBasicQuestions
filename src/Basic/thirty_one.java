@@ -1,6 +1,7 @@
 //Reverse for loop. Print n to 1.
 
 package Basic;
+import java.util.*;
 import java.util.Scanner;
 
 public class thirty_one {
