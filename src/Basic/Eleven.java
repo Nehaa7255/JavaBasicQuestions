@@ -1,6 +1,7 @@
 //Accept two numbers and print the greatest between them
 
 package Basic;
+import java.util.*;
 import java.util.Scanner;
 public class Eleven {
     public static void main(String []args){
