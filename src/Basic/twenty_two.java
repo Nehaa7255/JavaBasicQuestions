@@ -12,6 +12,7 @@ Write a program that will ask the user to enter his/her marks (out of 100). Defi
  */
 
 package Basic;
+import java.util.*;
 import java.util.Scanner;
 public class twenty_two {
     public static void main(String []args){
