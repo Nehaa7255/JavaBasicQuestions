@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_four.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_seven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_three.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_two.java" afterDir="false" />
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="greatest no.(Q.N:11)added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,69 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
-    </task>
-    <task id="LOCAL-00081" summary="fifty_two added.">
-      <created>1682097698652</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1682097698653</updated>
-    </task>
-    <task id="LOCAL-00082" summary="fifty_two added.">
-      <created>1682187120853</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187120854</updated>
-    </task>
-    <task id="LOCAL-00083" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1682187209017</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187209017</updated>
-    </task>
-    <task id="LOCAL-00084" summary="Fifty_three Question added">
-      <created>1682187463137</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187463137</updated>
-    </task>
-    <task id="LOCAL-00085" summary="Fifty_three Question added">
-      <created>1682187483008</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187483008</updated>
-    </task>
-    <task id="LOCAL-00086" summary="fifty_four Question added">
-      <created>1682187527998</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187527998</updated>
-    </task>
-    <task id="LOCAL-00087" summary="fifty_four Question added">
-      <created>1682187541998</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187541998</updated>
-    </task>
-    <task id="LOCAL-00088" summary="fifty_five Question added">
-      <created>1682187618485</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187618485</updated>
-    </task>
-    <task id="LOCAL-00089" summary="fifty_five Question added">
-      <created>1682187632414</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187632414</updated>
     </task>
     <task id="LOCAL-00090" summary="Merge remote-tracking branch 'origin/master'">
       <created>1682187662245</created>
@@ -395,7 +329,70 @@
       <option name="project" value="LOCAL" />
       <updated>1682445331369</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Bijli bill(Q.N:24)added">
+      <created>1682445597145</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1682445597145</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Bijli bill(Q.N:24)added">
+      <created>1682445609247</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1682445609247</updated>
+    </task>
+    <task id="LOCAL-00132" summary="alphabet(Q.N:27)added">
+      <created>1682445649484</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1682445649484</updated>
+    </task>
+    <task id="LOCAL-00133" summary="shop discount(Q.N:23)added">
+      <created>1682445677324</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1682445677324</updated>
+    </task>
+    <task id="LOCAL-00134" summary="mark sheet(Q.N:22)added">
+      <created>1682445707590</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1682445707590</updated>
+    </task>
+    <task id="LOCAL-00135" summary="..">
+      <created>1682445740741</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1682445740741</updated>
+    </task>
+    <task id="LOCAL-00136" summary="resturant(Q.N:55)added">
+      <created>1682445842338</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1682445842338</updated>
+    </task>
+    <task id="LOCAL-00137" summary="resturant(Q.N:55)added">
+      <created>1682445865043</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1682445865043</updated>
+    </task>
+    <task id="LOCAL-00138" summary="greatest no.(Q.N:11)added">
+      <created>1682446035266</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1682446035266</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,13 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="resturant(Q.N:55)added" />
-    <MESSAGE value="sum of -ve, +ve even &amp; odd no(Q.N:51)added" />
-    <MESSAGE value="Q.n 27 using switch(Q.N:53)added" />
-    <MESSAGE value="choice based weeday(Q.N:52)added" />
-    <MESSAGE value="Automorphic no(Q.N:49)added" />
-    <MESSAGE value="Automorphic no(Q.N:48)added" />
-    <MESSAGE value="hello using do while(Q.N:49)added" />
     <MESSAGE value="strong number(Q.N:46)added" />
     <MESSAGE value="seperate each digit of a number(Q.N:40)added" />
     <MESSAGE value="all the factors(Q.N:37)added" />
@@ -435,6 +425,13 @@
     <MESSAGE value="fahrenheit to celsius" />
     <MESSAGE value="." />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Bijli bill(Q.N:24)added" />
+    <MESSAGE value="alphabet(Q.N:27)added" />
+    <MESSAGE value="shop discount(Q.N:23)added" />
+    <MESSAGE value="mark sheet(Q.N:22)added" />
+    <MESSAGE value=".." />
+    <MESSAGE value="resturant(Q.N:55)added" />
+    <MESSAGE value="greatest no.(Q.N:11)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="greatest no.(Q.N:11)added" />
   </component>
 </project>
