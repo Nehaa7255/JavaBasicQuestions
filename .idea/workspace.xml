@@ -49,13 +49,6 @@
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
     </task>
-    <task id="LOCAL-00096" summary="all factor of a number(Q.N:37)added">
-      <created>1682274107117</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1682274107117</updated>
-    </task>
     <task id="LOCAL-00097" summary="calculator using do while(Q.N:50)added">
       <created>1682274154810</created>
       <option name="number" value="00097" />
@@ -392,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682533775253</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="Question 59 added">
+      <created>1682618960462</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1682618960462</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
