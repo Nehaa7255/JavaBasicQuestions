@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="greatest no.(Q.N:11)added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Question 59 added">
+      <change beforePath="$PROJECT_DIR$/src/Basic/fifty_nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifty_nine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,48 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
-    </task>
-    <task id="LOCAL-00090" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1682187662245</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187662245</updated>
-    </task>
-    <task id="LOCAL-00091" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1682187690232</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187690232</updated>
-    </task>
-    <task id="LOCAL-00092" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1682187726360</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187726360</updated>
-    </task>
-    <task id="LOCAL-00093" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1682187767824</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187767824</updated>
-    </task>
-    <task id="LOCAL-00094" summary="sum of odd &amp; even no. in a range(Q.N:35)added">
-      <created>1682273365498</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1682273365498</updated>
-    </task>
-    <task id="LOCAL-00095" summary="divisible by 3 or 5 in a range(Q.N:36)added">
-      <created>1682273432208</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1682273432209</updated>
     </task>
     <task id="LOCAL-00096" summary="all factor of a number(Q.N:37)added">
       <created>1682274107117</created>
@@ -392,7 +350,49 @@
       <option name="project" value="LOCAL" />
       <updated>1682446035266</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="Question 56 added">
+      <created>1682533602907</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1682533602907</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Question 56 added">
+      <created>1682533649743</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1682533649743</updated>
+    </task>
+    <task id="LOCAL-00141" summary="Question 57 added">
+      <created>1682533685430</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1682533685430</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Question 58 added">
+      <created>1682533727115</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1682533727115</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Question 59 added">
+      <created>1682533760008</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1682533760008</updated>
+    </task>
+    <task id="LOCAL-00144" summary="Question 59 added">
+      <created>1682533775253</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1682533775253</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,10 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="strong number(Q.N:46)added" />
-    <MESSAGE value="seperate each digit of a number(Q.N:40)added" />
-    <MESSAGE value="all the factors(Q.N:37)added" />
-    <MESSAGE value="no. divisible by 3 or 5 in a range(Q.N:36)added" />
     <MESSAGE value="thirty_two(Q.N:32)added" />
     <MESSAGE value="sum of all even&amp;odd no in a range(Q.N:35)added" />
     <MESSAGE value="character input(Q.N:13)added" />
@@ -432,6 +428,10 @@
     <MESSAGE value=".." />
     <MESSAGE value="resturant(Q.N:55)added" />
     <MESSAGE value="greatest no.(Q.N:11)added" />
-    <option name="LAST_COMMIT_MESSAGE" value="greatest no.(Q.N:11)added" />
+    <MESSAGE value="Question 56 added" />
+    <MESSAGE value="Question 57 added" />
+    <MESSAGE value="Question 58 added" />
+    <MESSAGE value="Question 59 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 59 added" />
   </component>
 </project>
