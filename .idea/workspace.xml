@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Question 54 added">
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Shop discount(Q.N:54)added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/thirty_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirty_two.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
-    </task>
-    <task id="LOCAL-00108" summary="seperate each digit of a number(Q.N:40)added">
-      <created>1682359104348</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1682359104348</updated>
-    </task>
-    <task id="LOCAL-00109" summary="all the factors(Q.N:37)added">
-      <created>1682359267628</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1682359267628</updated>
     </task>
     <task id="LOCAL-00110" summary="no. divisible by 3 or 5 in a range(Q.N:36)added">
       <created>1682359360300</created>
@@ -393,7 +379,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682619647485</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="Shop discount(Q.N:54)added">
+      <created>1682702667500</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1682702667500</updated>
+    </task>
+    <task id="LOCAL-00158" summary="Shop discount(Q.N:54)added">
+      <created>1682702725717</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1682702725717</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -408,8 +408,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="factorial(Q.N:34)added" />
-    <MESSAGE value="check perfect no. or not(Q.N:39)added" />
     <MESSAGE value="print n to 1(Q.N:31)added" />
     <MESSAGE value="character input(Q.N:12)added" />
     <MESSAGE value="BIJLI BILL(Q.N:24)added" />
@@ -433,6 +431,8 @@
     <MESSAGE value="check armstrong number" />
     <MESSAGE value="array" />
     <MESSAGE value="Question 54 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question 54 added" />
+    <MESSAGE value="Shop discount(Q.N:54) added" />
+    <MESSAGE value="Shop discount(Q.N:54)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shop discount(Q.N:54)added" />
   </component>
 </project>
