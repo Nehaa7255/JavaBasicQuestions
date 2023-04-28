@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Question 50 added">
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Question 54 added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/twenty_three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/twenty_three.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,41 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Automorphic no(Q.N:49)added">
-      <created>1682274472772</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1682274472772</updated>
-    </task>
-    <task id="LOCAL-00104" summary="Automorphic no(Q.N:48)added">
-      <created>1682274495997</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1682274495997</updated>
-    </task>
-    <task id="LOCAL-00105" summary="hello using do while(Q.N:49)added">
-      <created>1682274539932</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1682274539932</updated>
-    </task>
-    <task id="LOCAL-00106" summary="strong number(Q.N:46)added">
-      <created>1682274570718</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1682274570718</updated>
-    </task>
-    <task id="LOCAL-00107" summary="seperate each digit of a number(Q.N:40)added">
-      <created>1682358946562</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1682358946563</updated>
     </task>
     <task id="LOCAL-00108" summary="seperate each digit of a number(Q.N:40)added">
       <created>1682359104348</created>
@@ -393,7 +358,42 @@
       <option name="project" value="LOCAL" />
       <updated>1682619333734</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="check armstrong number">
+      <created>1682619440222</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1682619440222</updated>
+    </task>
+    <task id="LOCAL-00153" summary="array">
+      <created>1682619485040</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1682619485040</updated>
+    </task>
+    <task id="LOCAL-00154" summary="Question 54 added">
+      <created>1682619555037</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1682619555037</updated>
+    </task>
+    <task id="LOCAL-00155" summary="Question 54 added">
+      <created>1682619608778</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1682619608778</updated>
+    </task>
+    <task id="LOCAL-00156" summary="Question 54 added">
+      <created>1682619647485</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1682619647485</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -408,9 +408,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="character input(Q.N:13)added" />
-    <MESSAGE value="natural no. up to n(Q.N:30)added" />
-    <MESSAGE value="sum of all factor of a no.(Q.N:38)added" />
     <MESSAGE value="factorial(Q.N:34)added" />
     <MESSAGE value="check perfect no. or not(Q.N:39)added" />
     <MESSAGE value="print n to 1(Q.N:31)added" />
@@ -433,6 +430,9 @@
     <MESSAGE value="Question 48 added" />
     <MESSAGE value="Question 57 added" />
     <MESSAGE value="Question 50 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question 50 added" />
+    <MESSAGE value="check armstrong number" />
+    <MESSAGE value="array" />
+    <MESSAGE value="Question 54 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 54 added" />
   </component>
 </project>
