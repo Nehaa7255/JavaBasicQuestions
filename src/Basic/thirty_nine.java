@@ -3,7 +3,7 @@
      Ex -  6 = 1, 2, 3 = 6
  */
 
-
+package Basic;
 import java.util.*;
 import java.util.Scanner;
 
