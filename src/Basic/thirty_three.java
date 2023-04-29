@@ -1,6 +1,7 @@
 //Sum up to n terms.
 
 package Basic;
+import java.util.*;
 import java.util.Scanner;
 public class thirty_three {
     public static void main(String []agrs){
