@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class thirty_nine {
     public static void main(String []args)
     {
-
+        Scanner sc=new Scanner(System.in);
 
 
     }
