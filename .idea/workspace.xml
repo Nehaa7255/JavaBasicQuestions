@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Question 32 added">
-      <change beforePath="$PROJECT_DIR$/src/Basic/thirty_three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirty_three.java" afterDir="false" />
-    </list>
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="Question 33 added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,41 +46,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
-    </task>
-    <task id="LOCAL-00129" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1682445331369</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1682445331369</updated>
-    </task>
-    <task id="LOCAL-00130" summary="Bijli bill(Q.N:24)added">
-      <created>1682445597145</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1682445597145</updated>
-    </task>
-    <task id="LOCAL-00131" summary="Bijli bill(Q.N:24)added">
-      <created>1682445609247</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1682445609247</updated>
-    </task>
-    <task id="LOCAL-00132" summary="alphabet(Q.N:27)added">
-      <created>1682445649484</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1682445649484</updated>
-    </task>
-    <task id="LOCAL-00133" summary="shop discount(Q.N:23)added">
-      <created>1682445677324</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1682445677324</updated>
     </task>
     <task id="LOCAL-00134" summary="mark sheet(Q.N:22)added">
       <created>1682445707590</created>
@@ -392,7 +355,42 @@
       <option name="project" value="LOCAL" />
       <updated>1682791350174</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="Question 33 added">
+      <created>1682791464240</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1682791464240</updated>
+    </task>
+    <task id="LOCAL-00179" summary="Question 33 added">
+      <created>1682791480276</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1682791480276</updated>
+    </task>
+    <task id="LOCAL-00180" summary="Question 33 added">
+      <created>1682791528398</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1682791528398</updated>
+    </task>
+    <task id="LOCAL-00181" summary="Question 33 added">
+      <created>1682791537062</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1682791537062</updated>
+    </task>
+    <task id="LOCAL-00182" summary="Question 33 added">
+      <created>1682791559672</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1682791559672</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Bijli bill(Q.N:24)added" />
     <MESSAGE value="alphabet(Q.N:27)added" />
     <MESSAGE value="shop discount(Q.N:23)added" />
@@ -432,6 +429,7 @@
     <MESSAGE value="Bijli bill(Q.no: 24 added)" />
     <MESSAGE value="hello world n times(Q.no:29)added" />
     <MESSAGE value="Question 32 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question 32 added" />
+    <MESSAGE value="Question 33 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 33 added" />
   </component>
 </project>
