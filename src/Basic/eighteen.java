@@ -1,7 +1,7 @@
 // Accept the value of a, b, c - The values in a quadratic equation and find its roots.
 
 package Basic;
-
+import java.util.*;
 import java.util.Scanner;
 public class eighteen {
     public static void main(String[] args) {
