@@ -2,7 +2,7 @@
 
 package Basic;
 import java.lang.*;
-
+import java.util.*;
 import java.util.Scanner;
 public class eighteen {
     public static void main(String[] args) {
