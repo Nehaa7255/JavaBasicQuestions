@@ -1,5 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
+import java.lang.*;
 public class cuboid {
     public static void main(String[] args) {
 
