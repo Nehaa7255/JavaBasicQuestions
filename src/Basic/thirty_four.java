@@ -8,7 +8,7 @@ public class thirty_four {
         Scanner sc=new Scanner(System.in);
         int num;
         int i,fact=1;
-        int number=5;//It is the number to calculate factorial
+        int number=5;
         for(i=1;i<=number;++i){
             fact=fact*i;
         }
