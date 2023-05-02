@@ -3,13 +3,16 @@ package Basic;
 import java.util.Scanner;
 
 public class fourty {
-    public static void main(String []args){
-        Scanner sc=new Scanner(System.in);
-        int num=150;
-        while(num>0){
-             num=num/10;
-           int  rem = num %10;
-            System.out.println(rem);
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a number: ");
+        int n = sc.nextInt();
+        int digit;
+        while (n >= 0) {
+            digit = n % 10;
+            System.out.println(digit);
+            n = n / 10;
         }
+
     }
 }
