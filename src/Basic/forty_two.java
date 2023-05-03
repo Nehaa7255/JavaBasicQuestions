@@ -11,6 +11,7 @@ public class forty_two {
         for(int i=2;i<=num;i++){
             System.out.print("Enter a number");
 
+
         }
 
     }
