@@ -1,5 +1,6 @@
 //Sum of digits of a number, 936 = 18
 package Basic;
+import java.lang.*;
 import java.util.*;
 import java.util.Scanner;
 
