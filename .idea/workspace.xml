@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="all factorial(Q.no:37)added">
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="calculator(Q.no:50)added">
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2023_11_28_PM_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2023_11_28_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2023_11_44_PM_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2023_11_44_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2023_11_46_PM_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2023_11_46_PM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/fifty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/forty_five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/forty_five.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/thirty_seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/thirty_seven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,34 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
-    </task>
-    <task id="LOCAL-00171" summary="Question 39 added">
-      <created>1682790935946</created>
-      <option name="number" value="00171" />
-      <option name="presentableId" value="LOCAL-00171" />
-      <option name="project" value="LOCAL" />
-      <updated>1682790935946</updated>
-    </task>
-    <task id="LOCAL-00172" summary="Question 39 added">
-      <created>1682790977051</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1682790977051</updated>
-    </task>
-    <task id="LOCAL-00173" summary="Bijli bill(Q.no: 24 added)">
-      <created>1682791065276</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1682791065276</updated>
-    </task>
-    <task id="LOCAL-00174" summary="Bijli bill(Q.no: 24 added)">
-      <created>1682791083173</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1682791083173</updated>
     </task>
     <task id="LOCAL-00175" summary="hello world n times(Q.no:29)added">
       <created>1682791174849</created>
@@ -401,7 +369,35 @@
       <option name="project" value="LOCAL" />
       <updated>1683049823158</updated>
     </task>
-    <option name="localTasksCounter" value="220" />
+    <task id="LOCAL-00220" summary="all factorial(Q.no:37)added">
+      <created>1683049871198</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1683049871198</updated>
+    </task>
+    <task id="LOCAL-00221" summary="all factors(Q.no:37)added">
+      <created>1683049892757</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1683049892757</updated>
+    </task>
+    <task id="LOCAL-00222" summary="input value(Q.no:45)added">
+      <created>1683049917005</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1683049917005</updated>
+    </task>
+    <task id="LOCAL-00223" summary="calculator(Q.no:50)added">
+      <created>1683049946751</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1683049946751</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,9 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Question 54 added" />
-    <MESSAGE value="Shop discount(Q.N:54) added" />
-    <MESSAGE value="Shop discount(Q.N:54)added" />
     <MESSAGE value="sum up to n term(Q.NO:33)added" />
     <MESSAGE value="factor of a no.(Q.NO:37)added" />
     <MESSAGE value=".." />
@@ -441,6 +434,9 @@
     <MESSAGE value="sum of digit(Q.no:41)added" />
     <MESSAGE value="prime or not(Q.no:41)added" />
     <MESSAGE value="all factorial(Q.no:37)added" />
-    <option name="LAST_COMMIT_MESSAGE" value="all factorial(Q.no:37)added" />
+    <MESSAGE value="all factors(Q.no:37)added" />
+    <MESSAGE value="input value(Q.no:45)added" />
+    <MESSAGE value="calculator(Q.no:50)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator(Q.no:50)added" />
   </component>
 </project>
