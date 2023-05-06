@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="(Q.no:52)added" />
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="(Q.no:50)added">
+      <change beforePath="$PROJECT_DIR$/src/Basic/fifty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifty.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,62 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
-    </task>
-    <task id="LOCAL-00222" summary="input value(Q.no:45)added">
-      <created>1683049917005</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1683049917005</updated>
-    </task>
-    <task id="LOCAL-00223" summary="calculator(Q.no:50)added">
-      <created>1683049946751</created>
-      <option name="number" value="00223" />
-      <option name="presentableId" value="LOCAL-00223" />
-      <option name="project" value="LOCAL" />
-      <updated>1683049946751</updated>
-    </task>
-    <task id="LOCAL-00224" summary="sum of digits(Q.no:41)added">
-      <created>1683136814937</created>
-      <option name="number" value="00224" />
-      <option name="presentableId" value="LOCAL-00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1683136814938</updated>
-    </task>
-    <task id="LOCAL-00225" summary="sum of digits(Q.no:41)added">
-      <created>1683136858073</created>
-      <option name="number" value="00225" />
-      <option name="presentableId" value="LOCAL-00225" />
-      <option name="project" value="LOCAL" />
-      <updated>1683136858073</updated>
-    </task>
-    <task id="LOCAL-00226" summary="(Q.no:42)added">
-      <created>1683136984448</created>
-      <option name="number" value="00226" />
-      <option name="presentableId" value="LOCAL-00226" />
-      <option name="project" value="LOCAL" />
-      <updated>1683136984448</updated>
-    </task>
-    <task id="LOCAL-00227" summary="(Q.no:44)added">
-      <created>1683137036316</created>
-      <option name="number" value="00227" />
-      <option name="presentableId" value="LOCAL-00227" />
-      <option name="project" value="LOCAL" />
-      <updated>1683137036316</updated>
-    </task>
-    <task id="LOCAL-00228" summary="(Q.no:44)added">
-      <created>1683137051805</created>
-      <option name="number" value="00228" />
-      <option name="presentableId" value="LOCAL-00228" />
-      <option name="project" value="LOCAL" />
-      <updated>1683137051805</updated>
-    </task>
-    <task id="LOCAL-00229" summary="(Q.no:44)added">
-      <created>1683137079296</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1683137079296</updated>
     </task>
     <task id="LOCAL-00230" summary="(Q.no:44)added">
       <created>1683137096692</created>
@@ -390,7 +336,63 @@
       <option name="project" value="LOCAL" />
       <updated>1683308588995</updated>
     </task>
-    <option name="localTasksCounter" value="271" />
+    <task id="LOCAL-00271" summary="(Q.no:52)added">
+      <created>1683396718576</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1683396718577</updated>
+    </task>
+    <task id="LOCAL-00272" summary="(Q.no:59)added">
+      <created>1683396811829</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1683396811829</updated>
+    </task>
+    <task id="LOCAL-00273" summary="(Q.no:59)added">
+      <created>1683396826763</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1683396826763</updated>
+    </task>
+    <task id="LOCAL-00274" summary="(Q.no:59)added">
+      <created>1683396897026</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1683396897026</updated>
+    </task>
+    <task id="LOCAL-00275" summary="(Q.no:54)added">
+      <created>1683396941084</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1683396941084</updated>
+    </task>
+    <task id="LOCAL-00276" summary="(Q.no:54)added">
+      <created>1683396954931</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1683396954931</updated>
+    </task>
+    <task id="LOCAL-00277" summary="(Q.no:50)added">
+      <created>1683396983823</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1683396983823</updated>
+    </task>
+    <task id="LOCAL-00278" summary="(Q.no:50)added">
+      <created>1683396995066</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1683396995066</updated>
+    </task>
+    <option name="localTasksCounter" value="279" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -405,7 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="input number(Q.no:39)added" />
     <MESSAGE value="digit(Q.no:40)added" />
     <MESSAGE value="sum of digit(Q.no:41)added" />
     <MESSAGE value="prime or not(Q.no:41)added" />
@@ -424,12 +425,13 @@
     <MESSAGE value="(Q.no:48)added" />
     <MESSAGE value="(Q.no:58)added" />
     <MESSAGE value="(Q.no:55)added" />
-    <MESSAGE value="(Q.no:54)added" />
-    <MESSAGE value="(Q.no:59)added" />
     <MESSAGE value="(Q.no:51)added" />
     <MESSAGE value="(Q.no:56)added" />
     <MESSAGE value="(Q.no:53)added" />
     <MESSAGE value="(Q.no:52)added" />
-    <option name="LAST_COMMIT_MESSAGE" value="(Q.no:52)added" />
+    <MESSAGE value="(Q.no:59)added" />
+    <MESSAGE value="(Q.no:54)added" />
+    <MESSAGE value="(Q.no:50)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="(Q.no:50)added" />
   </component>
 </project>
