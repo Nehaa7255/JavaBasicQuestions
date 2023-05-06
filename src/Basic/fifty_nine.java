@@ -5,6 +5,5 @@ public class fifty_nine {
 
         Scanner sc=new Scanner(System.in);
 
-
     }
 }
