@@ -17,7 +17,6 @@ public class fifteen {
         if(age >=18){
             System.out.println("Valid - Hello"+" "+name+","+" "+"you are a valid voter.");
         }
-
         else
         {
             System.out.println("Invalid - Sorry"+" "+name+","+" "+"you can't cast the vote.");
