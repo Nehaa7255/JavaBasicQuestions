@@ -12,5 +12,6 @@ public class forty_five {
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
 
+
     }
 }
