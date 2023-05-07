@@ -5,7 +5,6 @@
 package Basic;
 import java.util.*;
 import java.util.Scanner;
-
 public class forty_five {
     public static void main(String []args)
     {
