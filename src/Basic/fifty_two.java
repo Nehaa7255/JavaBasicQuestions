@@ -8,5 +8,4 @@ public class fifty_two {
 
     }
 
-
 }
