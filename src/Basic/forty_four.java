@@ -10,5 +10,4 @@ public class forty_four {
         Scanner sc=new Scanner(System.in);
 
     }
-
 }
