@@ -3,5 +3,6 @@ package Basic;
 public class forty_nine {
     public static void main(String []args){
 
+
     }
 }
