@@ -6,6 +6,7 @@ public class forty_eight {
 
 Scanner sc=new Scanner(System.in);
 
+
     }
 }
 
