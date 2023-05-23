@@ -8,4 +8,5 @@ public class fifty_three {
         Scanner sc=new Scanner(System.in);
 
     }
+
 }
