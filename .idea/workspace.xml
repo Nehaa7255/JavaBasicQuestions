@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="(Q.no:44)added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4da5bf8a-0102-4df0-8c1e-b9e7b50ab1a1" name="Changes" comment="(Q.no:56)added">
+      <change beforePath="$PROJECT_DIR$/src/Basic/fifty_three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifty_three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/fifty_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/fifty_two.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,34 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681496740227</updated>
-    </task>
-    <task id="LOCAL-00260" summary="(Q.no:54)added">
-      <created>1683308360024</created>
-      <option name="number" value="00260" />
-      <option name="presentableId" value="LOCAL-00260" />
-      <option name="project" value="LOCAL" />
-      <updated>1683308360024</updated>
-    </task>
-    <task id="LOCAL-00261" summary="(Q.no:59)added">
-      <created>1683308381161</created>
-      <option name="number" value="00261" />
-      <option name="presentableId" value="LOCAL-00261" />
-      <option name="project" value="LOCAL" />
-      <updated>1683308381161</updated>
-    </task>
-    <task id="LOCAL-00262" summary="(Q.no:51)added">
-      <created>1683308401458</created>
-      <option name="number" value="00262" />
-      <option name="presentableId" value="LOCAL-00262" />
-      <option name="project" value="LOCAL" />
-      <updated>1683308401458</updated>
-    </task>
-    <task id="LOCAL-00263" summary="(Q.no:56)added">
-      <created>1683308451983</created>
-      <option name="number" value="00263" />
-      <option name="presentableId" value="LOCAL-00263" />
-      <option name="project" value="LOCAL" />
-      <updated>1683308451983</updated>
     </task>
     <task id="LOCAL-00264" summary="(Q.no:56)added">
       <created>1683308463171</created>
@@ -392,7 +365,35 @@
       <option name="project" value="LOCAL" />
       <updated>1684860681155</updated>
     </task>
-    <option name="localTasksCounter" value="309" />
+    <task id="LOCAL-00309" summary="(Q.no:44)added">
+      <created>1684863064497</created>
+      <option name="number" value="00309" />
+      <option name="presentableId" value="LOCAL-00309" />
+      <option name="project" value="LOCAL" />
+      <updated>1684863064498</updated>
+    </task>
+    <task id="LOCAL-00310" summary="(Q.no:44)added">
+      <created>1684863112673</created>
+      <option name="number" value="00310" />
+      <option name="presentableId" value="LOCAL-00310" />
+      <option name="project" value="LOCAL" />
+      <updated>1684863112673</updated>
+    </task>
+    <task id="LOCAL-00311" summary="(Q.no:59)added">
+      <created>1684863187518</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
+      <option name="project" value="LOCAL" />
+      <updated>1684863187518</updated>
+    </task>
+    <task id="LOCAL-00312" summary="(Q.no:51)added">
+      <created>1684863202112</created>
+      <option name="number" value="00312" />
+      <option name="presentableId" value="LOCAL-00312" />
+      <option name="project" value="LOCAL" />
+      <updated>1684863202112</updated>
+    </task>
+    <option name="localTasksCounter" value="313" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,13 +418,9 @@
     <MESSAGE value="prime or not(Q.no:42)added" />
     <MESSAGE value="cal using switch(Q.no:54)added" />
     <MESSAGE value="sum(Q.no:51)added" />
-    <MESSAGE value="(Q.no:57)added" />
     <MESSAGE value="(Q.no:48)added" />
     <MESSAGE value="(Q.no:55)added" />
-    <MESSAGE value="(Q.no:51)added" />
-    <MESSAGE value="(Q.no:56)added" />
     <MESSAGE value="(Q.no:53)added" />
-    <MESSAGE value="(Q.no:59)added" />
     <MESSAGE value="(Q.no:54)added" />
     <MESSAGE value="(Q.no:50)added" />
     <MESSAGE value="(Q.no:15)added" />
@@ -432,6 +429,10 @@
     <MESSAGE value="(Q.no:45)added" />
     <MESSAGE value="(Q.no:49)added" />
     <MESSAGE value="(Q.no:44)added" />
-    <option name="LAST_COMMIT_MESSAGE" value="(Q.no:44)added" />
+    <MESSAGE value="(Q.no:59)added" />
+    <MESSAGE value="(Q.no:51)added" />
+    <MESSAGE value="(Q.no:57)added" />
+    <MESSAGE value="(Q.no:56)added" />
+    <option name="LAST_COMMIT_MESSAGE" value="(Q.no:56)added" />
   </component>
 </project>
